@@ -110,7 +110,7 @@
   "als-esecutore": {
     "label": "ALS Esecutore",
     "aliases": ["ALS Esecutore"],
-    "hours": null,
+    "hours": 16,
     "price_base": 400.0,
     "vat": 88.0,
     "total": 488.0,
@@ -134,7 +134,7 @@
   "ils-esecutore": {
     "label": "ILS Esecutore",
     "aliases": ["ILS Esecutore"],
-    "hours": null,
+    "hours": 8,
     "price_base": 180.0,
     "vat": 39.6,
     "total": 219.6,
@@ -146,7 +146,7 @@
   "ils-soccorritore-esecutore": {
     "label": "ILS Soccorritore Esecutore",
     "aliases": ["ILS Soccorritore Esecutore"],
-    "hours": null,
+    "hours": 8,
     "price_base": 150.0,
     "vat": 33.0,
     "total": 183.0,
@@ -158,7 +158,7 @@
   "pals-pediatric-advanced-life-support": {
     "label": "PALS – Pediatric Advanced Life Support",
     "aliases": ["Pediatric Advanced Life Support"],
-    "hours": null,
+    "hours": 16,
     "price_base": 400.0,
     "vat": 88.0,
     "total": 488.0,
