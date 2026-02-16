@@ -1,7 +1,7 @@
 {
   "p-b-l-s-d-nrc-laico": {
     "label": "P.B.L.S.D. NRC Laico",
-    "hours": null,
+    "hours": 4,
     "price_base": 60.0,
     "vat": 13.2,
     "total": 73.2,
