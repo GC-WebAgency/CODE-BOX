@@ -12,11 +12,11 @@
   },
   "r-c-p-u-d-laico": {
     "label": "R.C.P.U. – D Laico",
-    "hours": null,
+    "hours": 4,
     "price_base": 60.0,
     "vat": 13.2,
     "total": 73.2,
-    "note": "a persona",
+    "note": "A persona",
     "pay_full": "https://buy.stripe.com/dR614Cb5j1mC5Q4eVX",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
