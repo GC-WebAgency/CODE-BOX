@@ -26,7 +26,7 @@
   "r-c-p-u-d-laico-aggiornamento": {
     "label": "R.C.P.U. – D Laico Aggiornamento",
     "aliases": ["R.C.P.U. -D Laico Aggiornamento"],
-    "hours": null,
+    "hours": 2,
     "price_base": 30.0,
     "vat": 6.6,
     "total": 36.6,
