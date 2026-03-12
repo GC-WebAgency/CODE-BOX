@@ -9,7 +9,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/3cs3cK5KZaXc3HW29d",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PBLSD NRC Laico è progettato per fornire competenze essenziali nella gestione dell’emergenza pediatrica, con particolare attenzione alla rianimazione cardiopolmonare nel lattante e nel bambino e all’uso del defibrillatore."
   },
   "r-c-p-u-d-laico": {
     "label": "R.C.P.U. – D Laico",
@@ -21,8 +22,9 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/dR614Cb5j1mC5Q4eVX",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
-  },
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul riconoscimento dell’arresto cardiaco e sulla gestione delle prime fasi dell’emergenza."
+   },
   "r-c-p-u-d-laico-aggiornamento": {
     "label": "R.C.P.U. – D Laico Aggiornamento",
     "aliases": ["R.C.P.U. -D Laico Aggiornamento"],
@@ -33,31 +35,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/7sIbJg6P30iya6k8xA",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
-  },
-  "r-c-p-u-d-e6-laico": {
-    "label": "R.C.P.U. – D E6 Laico",
-    "aliases": ["R.C.P.U. -D E6 Laico"],
-    "hours": null,
-    "price_base": 90.0,
-    "vat": 19.8,
-    "total": 109.8,
-    "note": "A persona",
-    "pay_full": "https://buy.stripe.com/bIYdRo7T74yO7Yc4hm",
-    "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
-  },
-  "r-c-p-u-d-e6-laico-aggiornamento": {
-    "label": "R.C.P.U. – D E6 Laico Aggiornamento",
-    "aliases": ["R.C.P.U. -D E6 Laico Aggiornamento"],
-    "hours": null,
-    "price_base": 60.0,
-    "vat": 13.2,
-    "total": 73.2,
-    "note": "A persona",
-    "pay_full": "https://buy.stripe.com/cNifZggXy0jM7Rbfo14801r",
-    "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul riconoscimento dell’arresto cardiaco e sulla gestione delle prime fasi dell’emergenza."
   },
   "r-c-p-u-d-sanitario-aggiornamento-3-ore": {
     "label": "R.C.P.U. – D Sanitario Aggiornamento 3 ore",
@@ -69,7 +48,8 @@
     "note": "A persona",
     "pay_full": "",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul riconoscimento dell’arresto cardiaco e sulla gestione delle prime fasi dell’emergenza."
   },
   "r-c-p-u-d-sanitario-5-ore": {
     "label": "R.C.P.U. – D Sanitario 5 ore",
@@ -81,31 +61,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/aFa28qfTufeG0oJ8ZD4801t",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
-  },
-  "r-c-p-u-d-e6-sanitario-aggiornamento-3-ore": {
-    "label": "R.C.P.U. – D E6 Sanitario Aggiornamento 3 ore",
-    "aliases": ["R.C.P.U. -D E6 Sanitario Aggiornamento 3 ore"],
-    "hours": 3,
-    "price_base": 80.0,
-    "vat": 17.6,
-    "total": 97.6,
-    "note": "A persona",
-    "pay_full": "https://buy.stripe.com/bJe7sKcHifeG9Zj2Bf4801u",
-    "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
-  },
-  "r-c-p-u-d-e6-sanitario-5-ore": {
-    "label": "R.C.P.U. – D E6 Sanitario 5 ore",
-    "aliases": ["R.C.P.U. -D E6 Sanitario 5 ore"],
-    "hours": 5,
-    "price_base": 150.0,
-    "vat": 33.0,
-    "total": 183.0,
-    "note": "A persona",
-    "pay_full": "https://buy.stripe.com/3cI4gydLm8QignH5Nr4801s",
-    "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul riconoscimento dell’arresto cardiaco e sulla gestione delle prime fasi dell’emergenza."
   },
   "als-esecutore": {
     "label": "ALS Esecutore",
@@ -117,7 +74,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/dR6aFc6P30iya6k6pv",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso ALS Esecutore è progettato per fornire competenze essenziali nella gestione avanzata del paziente critico, con un focus sulla rianimazione avanzata e sul lavoro in team nelle situazioni di emergenza."
   },
   "als-istruttore": {
     "label": "ALS Istruttore",
@@ -129,7 +87,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/cNiaEXeNw6iubR78FNeZ20L",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso ALS Istruttore è progettato per fornire competenze didattiche e formative nella gestione avanzata delle emergenze, con un focus sulla conduzione delle attività pratiche e sulla trasmissione efficace delle competenze."
   },
   "ils-esecutore": {
     "label": "ILS Esecutore",
@@ -141,7 +100,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/14AbJ07mYc2u7Rb7Vz4801v",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso ILS Esecutore è progettato per fornire competenze essenziali ai professionisti sanitari nella gestione iniziale del paziente critico, con un focus sulla valutazione, sulla stabilizzazione e sul supporto al team di emergenza."
   },
   "ils-soccorritore-esecutore": {
     "label": "ILS Soccorritore Esecutore",
@@ -153,7 +113,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/9AQeVs0qF9T8fqEbJU",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso ILS Soccorritore Esecutore è progettato per fornire competenze essenziali ai soccorritori nella gestione iniziale del paziente critico, con un focus sul riconoscimento delle condizioni più gravi e sul supporto alle manovre di emergenza."
   },
   "pals-pediatric-advanced-life-support": {
     "label": "PALS – Pediatric Advanced Life Support",
@@ -165,7 +126,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/3cs6oW6P31mC0vKaFM",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PALS è progettato per fornire competenze essenziali nella gestione avanzata dell’emergenza pediatrica, con particolare attenzione al riconoscimento del bambino critico e al trattamento delle principali urgenze."
   },
   "pals-istruttore": {
     "label": "PALS Istruttore",
@@ -177,7 +139,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/dRm00j20KayK7ARf4beZ20M",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PALS Istruttore è progettato per fornire competenze didattiche nella formazione in emergenza pediatrica, con un focus sulla conduzione delle esercitazioni pratiche e sulla trasmissione efficace delle competenze."
   },
   "stop-the-bleed": {
     "label": "STOP THE BLEED",
@@ -189,7 +152,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/28o6oW8Xb5CS2DSg0n",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso Stop the Bleed è progettato per fornire competenze pratiche nel controllo delle emorragie potenzialmente letali, con un focus sul tamponamento delle ferite e sull’uso corretto del tourniquet."
   },
   "stop-the-bleed-avanzato": {
     "label": "STOP THE BLEED Avanzato",
@@ -201,7 +165,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/9AQaFc4GV5CS0vK7tS",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso Stop the Bleed Avanzato è progettato per fornire competenze avanzate nel controllo delle emorragie gravi, con un focus sulla gestione operativa del sanguinamento e sull’uso dei principali presidi emostatici."
   },
   "phtc-base": {
     "label": "PHTC Base",
@@ -213,7 +178,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/9AQ9B8a1f1mC0vK15l",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PHTC Base è progettato per fornire competenze essenziali nella gestione preospedaliera del trauma, con un focus sulla valutazione del paziente traumatizzato, sull’immobilizzazione e sul supporto vitale nelle prime fasi dell’intervento."
   },
   "gestione-del-paziente-aggressivo-e-violento-gpav": {
     "label": "Gestione del Paziente Aggressivo e Violento (GPAV)",
@@ -225,7 +191,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/cN25kS8Xbfds92gdS9",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso GPAV è progettato per fornire competenze pratiche nella gestione del paziente aggressivo e violento, con un focus sulla comunicazione efficace, sulla de-escalation e sulla sicurezza degli operatori."
   },
   "negoziatore-operativo-nope": {
     "label": "Negoziatore Operativo (NOPE)",
@@ -237,7 +204,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/6oEeVs8Xb5CSa6kdSb",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso Negoziatore Operativo è progettato per fornire competenze comunicative e strategiche nella gestione di situazioni critiche, con un focus sulla negoziazione e sulla riduzione del rischio operativo."
   },
   "prehospital-crime-scene-care-pcsc": {
     "label": "Prehospital Crime Scene Care (PCSC)",
@@ -249,19 +217,21 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/14k6oWehv3uK1zO8xT",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PCSC è progettato per fornire competenze operative nella gestione sanitaria di scenari complessi, con un focus sulla sicurezza del soccorritore, sulla valutazione della scena e sulla corretta gestione dell’intervento."
   },
   "istruttore-base-nrc": {
     "label": "ISTRUTTORE BASE NRC",
     "aliases": ["ISTRUTTORE BASE NRC", "ISTRUTTORE BASE PHTC NRC"],
     "hours": 20,
-   "price_base": 400.0,
+    "price_base": 400.0,
     "vat": 88.0,
     "total": 488.0,
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/fZu3cu9v6c2u2wRejX4801y",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso Istruttore Base NRC è progettato per fornire competenze didattiche di base nella formazione sanitaria, con un focus sulla comunicazione, sulla gestione dell’aula e sulla conduzione delle attività pratiche."
   },
   "psa-aziende-a-16-ore": {
     "label": "PSA Aziende A – 16 ore",
@@ -273,7 +243,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/8wMaFca1f4yO2DS6pB",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PSA Aziende A – 16 ore è progettato per fornire competenze essenziali nel primo soccorso aziendale, con un focus sulla gestione delle emergenze e sui principali interventi di assistenza in ambito lavorativo."
   },
   "psa-aziende-a-aggiornamento-6-ore": {
     "label": "PSA Aziende A – Aggiornamento 6 ore",
@@ -285,7 +256,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/5kAbLzc9M62V4F2bJ3",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PSA Aziende A – Aggiornamento 6 ore è progettato per aggiornare e consolidare le competenze di primo soccorso aziendale, con un focus sul ripasso delle procedure e delle principali manovre di intervento."
   },
   "psa-aziende-b-c-12-ore": {
     "label": "PSA Aziende B/C – 12 ore",
@@ -297,7 +269,8 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/bIY8x41uJ5CSdiw29m",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PSA Aziende B/C – 12 ore è progettato per fornire competenze essenziali nel primo soccorso aziendale, con un focus sulla gestione delle emergenze più comuni e sull’attivazione del sistema di soccorso."
   },
   "psa-aziende-b-c-aggiornamento-4-ore": {
     "label": "PSA Aziende B/C – Aggiornamento 4 ore",
@@ -309,6 +282,7 @@
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/7sI00yehv5CSdiwg0e",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
-    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N"
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso PSA Aziende B/C – Aggiornamento 4 ore è progettato per aggiornare e rafforzare le competenze di primo soccorso aziendale, con un focus sul ripasso delle procedure principali e delle manovre di emergenza."
   }
 }
