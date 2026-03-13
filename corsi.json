@@ -10,7 +10,7 @@
     "pay_full": "https://buy.stripe.com/3cs3cK5KZaXc3HW29d",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": Il nostro corso PBLSD è progettato per fornire competenze nella gestione dell’emergenza pediatrica, con particolare attenzione alla rianimazione cardiopolmonare nel lattante e nel bambino.
+    "description": "Il nostro corso PBLSD è progettato per fornire competenze nella gestione dell’emergenza pediatrica, con particolare attenzione alla rianimazione cardiopolmonare nel lattante e nel bambino."
   },
   "r-c-p-u-d-laico": {
     "label": "B.L.S.D - Laico", 
@@ -23,7 +23,7 @@
     "pay_full": "https://buy.stripe.com/dR614Cb5j1mC5Q4eVX",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": Il nostro corso B.L.S.D è progettato per fornire competenze nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul riconoscimento dell’arresto cardiaco.
+    "description": "Il nostro corso B.L.S.D è progettato per fornire competenze nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul riconoscimento dell’arresto cardiaco."
    },
   "r-c-p-u-d-laico-aggiornamento": {
     "label": "R.C.P.U. – D Laico Aggiornamento",
