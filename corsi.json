@@ -13,8 +13,8 @@
     "description": "Il nostro corso PBLSD è progettato per fornire competenze nella gestione dell’emergenza pediatrica, con particolare attenzione alla rianimazione cardiopolmonare nel lattante e nel bambino."
   },
   "r-c-p-u-d-laico": { 
-    "label": "R.C.P.U. – D Laico", 
-    "aliases": ["R.C.P.U. – D Laico"],
+    "label": "R.C.P.U. – D Laico",
+    "aliases": ["R.C.P.U. -D Laico"],
     "hours": 4, 
     "price_base": 60.0, 
     "vat": 13.2,
