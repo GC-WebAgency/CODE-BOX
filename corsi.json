@@ -2,6 +2,7 @@
   "p-b-l-s-d-nrc-laico": {
     "label": "P.B.L.S.D. NRC Laico",
     "aliases": ["P.B.L.S.D. NRC Laico"],
+    "titulo": "P.B.L.S.D. NRC Laico",
     "hours": 4,
     "price_base": 60.0,
     "vat": 13.2,
@@ -15,6 +16,7 @@
   "r-c-p-u-d-laico": { 
     "label": "R.C.P.U. – D Laico",
     "aliases": ["R.C.P.U. -D Laico"],
+    "titulo": "B.L.S.D Laico",
     "hours": 4, 
     "price_base": 60.0, 
     "vat": 13.2,
@@ -28,6 +30,7 @@
   "r-c-p-u-d-laico-aggiornamento": {
     "label": "R.C.P.U. – D Laico Aggiornamento",
     "aliases": ["R.C.P.U. -D Laico Aggiornamento"],
+    "titulo": "B.L.S.D Laico Aggiornamento",
     "hours": 2,
     "price_base": 30.0,
     "vat": 6.6,
@@ -41,6 +44,7 @@
   "r-c-p-u-d-sanitario-aggiornamento-3-ore": {
     "label": "R.C.P.U. – D Sanitario Aggiornamento 3 ore",
     "aliases": ["R.C.P.U. -D Sanitario Aggiornamento 3 ore"],
+    "titulo": "B.L.S.D Sanitario Aggiornamento 3 ore",
     "hours": 3,
     "price_base": 70.0,
     "vat": 15.4,
@@ -54,6 +58,7 @@
   "r-c-p-u-d-sanitario-5-ore": {
     "label": "R.C.P.U. – D Sanitario 5 ore",
     "aliases": ["R.C.P.U. -D Sanitario 5 ore"],
+    "titulo": "B.L.S.D Sanitario 5 ore",
     "hours": 5,
     "price_base": 115.0,
     "vat": 25.3,
@@ -67,6 +72,7 @@
   "als-esecutore": {
     "label": "ALS Esecutore",
     "aliases": ["ALS Esecutore"],
+    "titulo": "ALS Esecutore",
     "hours": 16,
     "price_base": 400.0,
     "vat": 88.0,
@@ -80,6 +86,7 @@
   "als-istruttore": {
     "label": "ALS Istruttore",
     "aliases": ["ALS Istruttore"],
+    "titulo": "ALS Istruttore",
     "hours": null,
     "price_base": 400.0,
     "vat": 88.0,
@@ -93,6 +100,7 @@
   "ils-esecutore": {
     "label": "ILS Esecutore",
     "aliases": ["ILS Esecutore"],
+    "titulo": "ILS Esecutore",
     "hours": 8,
     "price_base": 180.0,
     "vat": 39.6,
@@ -106,6 +114,7 @@
   "ils-soccorritore-esecutore": {
     "label": "ILS Soccorritore Esecutore",
     "aliases": ["ILS Soccorritore Esecutore"],
+    "titulo": "ILS Soccorritore Esecutore",
     "hours": 8,
     "price_base": 150.0,
     "vat": 33.0,
@@ -119,6 +128,7 @@
   "pals-pediatric-advanced-life-support": {
     "label": "PALS – Pediatric Advanced Life Support",
     "aliases": ["Pediatric Advanced Life Support"],
+    "titulo": "Pediatric Advanced Life Support",
     "hours": 16,
     "price_base": 400.0,
     "vat": 88.0,
@@ -132,6 +142,7 @@
   "pals-istruttore": {
     "label": "PALS Istruttore",
     "aliases": ["Instructor Pediatric Advanced Life Support"],
+    "titulo": "Instructor Pediatric Advanced Life Support",
     "hours": null,
     "price_base": 400.0,
     "vat": 88.0,
@@ -145,6 +156,7 @@
   "stop-the-bleed": {
     "label": "STOP THE BLEED",
     "aliases": ["STOP THE BLEED"],
+    "titulo": "STOP THE BLEED",
     "hours": null,
     "price_base": 80.0,
     "vat": 17.6,
@@ -158,6 +170,7 @@
   "stop-the-bleed-avanzato": {
     "label": "STOP THE BLEED Avanzato",
     "aliases": ["STOP THE BLEED AVANZATO"],
+    "titulo": "STOP THE BLEED AVANZATO",
     "hours": null,
     "price_base": 150.0,
     "vat": 33.0,
@@ -171,6 +184,7 @@
   "phtc-base": {
     "label": "PHTC Base",
     "aliases": ["PHTC Base"],
+    "titulo": "PHTC Base",
     "hours": null,
     "price_base": 200.0,
     "vat": 44.0,
@@ -184,6 +198,7 @@
   "gestione-del-paziente-aggressivo-e-violento-gpav": {
     "label": "Gestione del Paziente Aggressivo e Violento (GPAV)",
     "aliases": ["Gestione del Paziente Aggressivo e Violento"],
+    "titulo": "Gestione del Paziente Aggressivo e Violento",
     "hours": null,
     "price_base": 120.0,
     "vat": 26.4,
@@ -197,6 +212,7 @@
   "negoziatore-operativo-nope": {
     "label": "Negoziatore Operativo (NOPE)",
     "aliases": ["NEGOZIATORE OPERATIVO"],
+    "titulo": "NEGOZIATORE OPERATIVO",
     "hours": null,
     "price_base": 100.0,
     "vat": 22.0,
@@ -210,6 +226,7 @@
   "prehospital-crime-scene-care-pcsc": {
     "label": "Prehospital Crime Scene Care (PCSC)",
     "aliases": ["PREHOSPITAL CRIME SCENE CARE"],
+    "titulo": "PREHOSPITAL CRIME SCENE CARE",
     "hours": null,
     "price_base": 120.0,
     "vat": 26.4,
@@ -223,6 +240,7 @@
   "istruttore-base-nrc": {
     "label": "ISTRUTTORE BASE NRC",
     "aliases": ["ISTRUTTORE BASE NRC", "ISTRUTTORE BASE PHTC NRC"],
+    "titulo": "ISTRUTTORE BASE NRC",
     "hours": 20,
     "price_base": 400.0,
     "vat": 88.0,
@@ -236,6 +254,7 @@
   "psa-aziende-a-16-ore": {
     "label": "PSA Aziende A – 16 ore",
     "aliases": ["PSA DM 388/03 - Aziende A 16"],
+    "titulo": "PSA DM 388/03 - Aziende A 16",
     "hours": 16,
     "price_base": 200.0,
     "vat": 44.0,
@@ -249,6 +268,7 @@
   "psa-aziende-a-aggiornamento-6-ore": {
     "label": "PSA Aziende A – Aggiornamento 6 ore",
     "aliases": ["PSA DM 388/03 - Aziende A Aggiornamento 6"],
+    "titulo": "PSA DM 388/03 - Aziende A Aggiornamento 6",
     "hours": 6,
     "price_base": 115.0,
     "vat": 25.3,
@@ -262,6 +282,7 @@
   "psa-aziende-b-c-12-ore": {
     "label": "PSA Aziende B/C – 12 ore",
     "aliases": ["PSA DM 388/03 - Aziende B/C 12"],
+    "titulo": "PSA DM 388/03 - Aziende B/C 12",
     "hours": 12,
     "price_base": 180.0,
     "vat": 39.6,
@@ -275,6 +296,7 @@
   "psa-aziende-b-c-aggiornamento-4-ore": {
     "label": "PSA Aziende B/C – Aggiornamento 4 ore",
     "aliases": ["PSA DM 388/03 - Aziende B/C Aggiornamento 4"],
+    "titulo": "PSA DM 388/03 - Aziende B/C Aggiornamento 4",
     "hours": 4,
     "price_base": 100.0,
     "vat": 22.0,
