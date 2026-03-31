@@ -100,7 +100,7 @@
   "ils-esecutore": {
     "label": "ILS Esecutore",
     "aliases": ["ILS Esecutore"],
-    "titulo": "ILS Sanitario",
+    "titulo": "ILS Esecutore",
     "hours": 8,
     "price_base": 180.0,
     "vat": 39.6,
@@ -113,7 +113,7 @@
   },
   "ils-soccorritore-esecutore": {
     "label": "ILS Soccorritore Esecutore",
-    "aliases": ["ILS Soccorritore Esecutore"],
+    "aliases": ["ILS Soccorritore"],
     "titulo": "ILS Soccorritore",
     "hours": 8,
     "price_base": 150.0,
