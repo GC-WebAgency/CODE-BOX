@@ -112,9 +112,9 @@
     "description": "Il nostro corso ILS Esecutore è progettato per fornire competenze essenziali ai professionisti sanitari nella gestione iniziale del paziente critico, con un focus sulla valutazione, sulla stabilizzazione e sul supporto al team di emergenza."
   },
   "ils-soccorritore-esecutore": {
-    "label": "ILS Soccorritore Esecutore",
-    "aliases": ["ILS Soccorritore"],
-    "titulo": "ILS Soccorritore",
+    "label": "ILS Soccorritore Esecutore 1",
+    "aliases": ["ILS Soccorritore Esecutore 2"],
+    "titulo": "ILS Soccorritore Esecutore 3",
     "hours": 8,
     "price_base": 150.0,
     "vat": 33.0,
