@@ -109,7 +109,7 @@
     "pay_full": "https://buy.stripe.com/14AbJ07mYc2u7Rb7Vz4801v",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso ILS Esecutore è progettato per fornire competenze essenziali ai professionisti sanitari nella gestione iniziale del paziente critico, con un focus sulla valutazione, sulla stabilizzazione e sul supporto al team di emergenza."
+    "description": "Il nostro corso ILS Sanitario è progettato per fornire competenze essenziali ai professionisti sanitari nella gestione iniziale del paziente critico, con un focus sulla valutazione, sulla stabilizzazione e sul supporto al team di emergenza."
   },
   "ils-soccorritore-esecutore": {
     "label": "ILS Soccorritore Esecutore",
@@ -123,7 +123,7 @@
     "pay_full": "https://buy.stripe.com/9AQeVs0qF9T8fqEbJU",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso ILS Soccorritore Esecutore è progettato per fornire competenze essenziali ai soccorritori nella gestione iniziale del paziente critico, con un focus sul riconoscimento delle condizioni più gravi e sul supporto alle manovre di emergenza."
+    "description": "Il nostro corso ILS Soccorritore è progettato per fornire competenze essenziali ai soccorritori nella gestione iniziale del paziente critico, con un focus sul riconoscimento delle condizioni più gravi e sul supporto alle manovre di emergenza."
   },
   "pals-pediatric-advanced-life-support": {
     "label": "PALS – Pediatric Advanced Life Support",
