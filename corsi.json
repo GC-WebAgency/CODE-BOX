@@ -254,7 +254,7 @@
   "psa-aziende-a-16-ore": {
     "label": "PSA Aziende A – 16 ore",
     "aliases": ["PSA DM 388/03 - Aziende A 16"],
-    "titulo": "PSA DM 388/03 - Aziende A 16",
+    "titulo": "PSA DM 388/03 - Aziende A 16 Ore",
     "hours": 16,
     "price_base": 200.0,
     "vat": 44.0,
@@ -268,7 +268,7 @@
   "psa-aziende-a-aggiornamento-6-ore": {
     "label": "PSA Aziende A – Aggiornamento 6 ore",
     "aliases": ["PSA DM 388/03 - Aziende A Aggiornamento 6"],
-    "titulo": "PSA DM 388/03 - Aziende A Aggiornamento 6",
+    "titulo": "PSA DM 388/03 - Aziende A Aggiornamento 6 Ore",
     "hours": 6,
     "price_base": 115.0,
     "vat": 25.3,
@@ -282,7 +282,7 @@
   "psa-aziende-b-c-12-ore": {
     "label": "PSA Aziende B/C – 12 ore",
     "aliases": ["PSA DM 388/03 - Aziende B/C 12"],
-    "titulo": "PSA DM 388/03 - Aziende B/C 12",
+    "titulo": "PSA DM 388/03 - Aziende B/C 12 Ore",
     "hours": 12,
     "price_base": 180.0,
     "vat": 39.6,
@@ -296,7 +296,7 @@
   "psa-aziende-b-c-aggiornamento-4-ore": {
     "label": "PSA Aziende B/C – Aggiornamento 4 ore",
     "aliases": ["PSA DM 388/03 - Aziende B/C Aggiornamento 4"],
-    "titulo": "PSA DM 388/03 - Aziende B/C Aggiornamento 4",
+    "titulo": "PSA DM 388/03 - Aziende B/C Aggiornamento 4 Ore",
     "hours": 4,
     "price_base": 100.0,
     "vat": 22.0,
