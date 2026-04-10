@@ -306,5 +306,19 @@
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
     "description": "Il nostro corso PSA Aziende B/C – Aggiornamento 4 ore è progettato per aggiornare e rafforzare le competenze di primo soccorso aziendale, con un focus sul ripasso delle procedure principali e delle manovre di emergenza."
+  },
+  "assistenza-al-parto-extra-ospedaliero": {
+    "label": "Assistenza al Parto Extra-ospedaliero",
+    "aliases": ["010/APE - Assistenza al Parto Extra-ospedaliero [16]"],
+    "titulo": "Assistenza al Parto Extra-ospedaliero",
+    "hours": 16,
+    "price_base": 150.0,
+    "vat": 33.0,
+    "total": 183.0,
+    "note": "A persona",
+    "pay_full": "https://buy.stripe.com/fZu8wOazafeG4EZ6Rv4801z",
+    "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Il nostro corso di Assistenza al Parto Extra-ospedaliero è progettato per fornire competenze nella gestione del parto in ambito pre-ospedaliero, con particolare attenzione alle manovre di assistenza alla nascita e alla gestione delle emergenze ostetriche."
   }
 }
