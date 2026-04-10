@@ -311,7 +311,7 @@
     "label": "Assistenza al Parto Extra-ospedaliero",
     "aliases": ["010/APE - Assistenza al Parto Extra-ospedaliero [16]"],
     "titulo": "Assistenza al Parto Extra-ospedaliero",
-    "hours": 16,
+    "hours": 8,
     "price_base": 150.0,
     "vat": 33.0,
     "total": 183.0,
