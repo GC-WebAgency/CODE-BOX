@@ -11,7 +11,7 @@
     "pay_full": "https://buy.stripe.com/3cs3cK5KZaXc3HW29d",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PBLSD è progettato per fornire competenze nella gestione dell’emergenza pediatrica, con particolare attenzione alla rianimazione cardiopolmonare nel lattante e nel bambino.",
+    "description": "Fornisce le competenze teorico-pratiche per la gestione dell'emergenza pediatrica. Include le manovre di rianimazione cardiopolmonare (RCP) e l'uso del defibrillatore (DAE) nel lattante e nel bambino.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/pblsd",
     "link_programma": "https://www.med-training.org/s/PBLSD-p73b.pdf"
   },
@@ -27,7 +27,7 @@
     "pay_full": "https://buy.stripe.com/dR614Cb5j1mC5Q4eVX",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso B.L.S.D è progettato per fornire competenze nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore, con un focus sul recognition dell’arresto cardiaco.",
+    "description": "Fornisce le competenze fondamentali per il riconoscimento dell'arresto cardiaco nell'adulto. Addestra all'esecuzione della rianimazione cardiopolmonare (RCP) e all'utilizzo in sicurezza del defibrillatore (DAE).",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/basic-life-support-defibrillation",
     "link_programma": "https://www.med-training.org/s/RCPUD-massaggiatore-LAICO.pdf"
   },
@@ -43,7 +43,7 @@
     "pay_full": "https://buy.stripe.com/7sIbJg6P30iya6k8xA",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali nella rianimazione cardiopolmonare di base e nell’uso del defibrillatore...",
+    "description": "Corso di retraining per il mantenimento delle abilità di base per il personale laico. Consente di ripassare le manovre di rianimazione cardiopolmonare (RCP) e le procedure di utilizzo del defibrillatore (DAE).",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/basic-life-support-defibrillation",
     "link_programma": "https://www.med-training.org/s/RCPUD-massaggiatore-LAICO.pdf"
   },
@@ -59,7 +59,7 @@
     "pay_full": "",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali...",
+    "description": "Corso di retraining specifico per i professionisti sanitari. Finalizzato al mantenimento e all'aggiornamento pratico delle competenze nella rianimazione cardiopolmonare di base e nell'uso del DAE.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/basic-life-support-defibrillation",
     "link_programma": "https://www.med-training.org/s/RCPUD-massaggiatore-LAICO.pdf"
   },
@@ -75,7 +75,7 @@
     "pay_full": "https://buy.stripe.com/aFa28qfTufeG0oJ8ZD4801t",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso R.C.P.U. – D Laico è progettato per fornire competenze essenziali...",
+    "description": "Formazione specifica per operatori sanitari sulle emergenze cardiorespiratorie. Include l'addestramento teorico e pratico alla RCP di alta qualità, l'uso del DAE e le tecniche di ventilazione assistita.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/basic-life-support-defibrillation",
     "link_programma": "https://www.med-training.org/s/RCPUD-massaggiatore-LAICO.pdf"
   },
@@ -91,7 +91,7 @@
     "pay_full": "https://buy.stripe.com/dR6aFc6P30iya6k6pv",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso ALS Esecutore è progettato per fornire competenze essenziali nella gestione avanzata del paziente critico...",
+    "description": "Fornisce competenze avanzate per la gestione del paziente adulto in arresto cardiaco o pre-arresto. Include il riconoscimento dei ritmi, la somministrazione di farmaci e la gestione avanzata delle vie aeree.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/advanced-life-support",
     "link_programma": "https://www.med-training.org/s/ALS-r2bt.pdf"
   },
@@ -107,7 +107,7 @@
     "pay_full": "https://buy.stripe.com/cNiaEXeNw6iubR78FNeZ20L",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso ALS Istruttore è progettato per fornire competenze didattiche...",
+    "description": "Percorso formativo per diventare istruttori ALS. Fornisce le metodologie didattiche e le tecniche di valutazione pratiche necessarie per insegnare la gestione avanzata delle emergenze cardiovascolari.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/advanced-life-support",
     "link_programma": "https://www.med-training.org/s/ALS-r2bt.pdf"
   },
@@ -123,7 +123,7 @@
     "pay_full": "https://buy.stripe.com/14AbJ07mYc2u7Rb7Vz4801v",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso ILS Sanitario è progettato per fornire competenze essenziali ai professionisti sanitari...",
+    "description": "Prepara i professionisti sanitari alla gestione iniziale del paziente in rapido deterioramento clinico o arresto cardiaco, stabilizzandolo in attesa dell'arrivo del team di rianimazione avanzata (ALS).",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/immediate-life-support",
     "link_programma": "https://www.med-training.org/s/ILS-37e9.pdf"
   },
@@ -139,7 +139,7 @@
     "pay_full": "https://buy.stripe.com/9AQeVs0qF9T8fqEbJU",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso ILS Soccorritore è progettato per fornire competenze essenziali ai soccorritori...",
+    "description": "Rivolto a soccorritori qualificati, il corso insegna a riconoscere precocemente il paziente critico. È focalizzato sulle manovre di rianimazione, gestione delle vie aeree e supporto dinamico in emergenza.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/immediate-life-support",
     "link_programma": "https://www.med-training.org/s/ILS-37e9.pdf"
   },
@@ -155,7 +155,7 @@
     "pay_full": "https://buy.stripe.com/3cs6oW6P31mC0vKaFM",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PALS è progettato per fornire competenze essenziali...",
+    "description": "Formazione avanzata per il personale sanitario sulle emergenze pediatriche. Insegna a valutare e gestire neonati e bambini con insufficienza respiratoria, shock e arresto cardiaco tramite protocolli standard.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/pediatric-advanced-life-support",
     "link_programma": "https://www.med-training.org/s/PALS-ypzd.pdf"
   },
@@ -171,7 +171,7 @@
     "pay_full": "https://buy.stripe.com/dRm00j20KayK7ARf4beZ20M",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PALS Istruttore è progettato per fornire competenze didattiche...",
+    "description": "Percorso formativo per aspiranti istruttori PALS. Trasferisce le competenze didattiche e relazionali necessarie per formare efficacemente il personale medico nella gestione avanzata dell'emergenza pediatrica.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/pediatric-advanced-life-support",
     "link_programma": "https://www.med-training.org/s/PALS-ypzd.pdf"
   },
@@ -187,7 +187,7 @@
     "pay_full": "https://buy.stripe.com/28o6oW8Xb5CS2DSg0n",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso Stop the Bleed è progettato per fornire competenze pratiche...",
+    "description": "Addestra al riconoscimento rapido delle emorragie massive. Insegna le manovre salvavita fondamentali, tra cui la compressione manuale, il wound packing e l'applicazione corretta del tourniquet (laccio emostatico).",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/stop-the-bleed",
     "link_programma": "https://static1.squarespace.com/static/619cb77279c0b91fab4483d1/t/68efa7a559d3ab2117883662/1760536485873/STOP+THE+BLEED+E+AVANZATO.pdf"
   },
@@ -203,7 +203,7 @@
     "pay_full": "https://buy.stripe.com/9AQaFc4GV5CS0vK7tS",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso Stop the Bleed Avanzato è progettato per fornire competenze avanzate...",
+    "description": "Approfondisce le tecniche di controllo delle emorragie in scenari complessi. Prevede un addestramento intensivo sull'uso di presidi avanzati e la gestione dei traumi in contesti critici o non convenzionali.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/stop-the-bleed",
     "link_programma": "https://static1.squarespace.com/static/619cb77279c0b91fab4483d1/t/68efa7a559d3ab2117883662/1760536485873/STOP+THE+BLEED+E+AVANZATO.pdf"
   },
@@ -219,7 +219,7 @@
     "pay_full": "https://buy.stripe.com/9AQ9B8a1f1mC0vK15l",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PHTC Base è progettato per fornire competenze essenziali...",
+    "description": "Formazione essenziale sul trattamento pre-ospedaliero del paziente traumatizzato. Fornisce un approccio sistematico per la valutazione rapida, la stabilizzazione delle lesioni e il trasporto in sicurezza.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/prehospital-trauma-care",
     "link_programma": "https://www.med-training.org/s/PHTC-35wf.pdf"
   },
@@ -235,7 +235,7 @@
     "pay_full": "https://buy.stripe.com/cN25kS8Xbfds92gdS9",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso GPAV è progettato per fornire competenze pratiche...",
+    "description": "Fornisce strumenti operativi e psicologici per prevenire e gestire le aggressioni in ambito clinico e di soccorso. Include tecniche di de-escalation verbale e procedure per la sicurezza degli operatori.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/gestione-del-paziente-violento",
     "link_programma": "https://www.med-training.org/s/GESTIONE-PAZIENTE-VIOLENTO-t5pr.pdf"
   },
@@ -251,7 +251,7 @@
     "pay_full": "https://buy.stripe.com/6oEeVs8Xb5CSa6kdSb",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso Negoziatore Operativo è progettato para fornire competenze comunicative...",
+    "description": "Sviluppa competenze comunicative avanzate per la gestione di crisi ad alta tensione. Insegna tecniche di negoziazione mirata, ascolto attivo e risoluzione dei conflitti in scenari di emergenza sul campo.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/negoziazione-operativa",
     "link_programma": "https://www.med-training.org/s/NEGOZIAZIONE-OPERATIVA-LTC.pdf"
   },
@@ -267,7 +267,7 @@
     "pay_full": "https://buy.stripe.com/14k6oWehv3uK1zO8xT",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PCSC è progettato para fornire competenze operative...",
+    "description": "Prepara i soccorritori a operare in sicurezza all'interno della scena di un crimine. Insegna le procedure essenziali per preservare le prove forensi garantendo contemporaneamente le cure mediche al paziente.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/scena-del-crimine",
     "link_programma": "https://static1.squarespace.com/static/619cb77279c0b91fab4483d1/t/68efa67e3127f4582be0ec17/1760536190605/SCENA+DEL+CRIMINE.pdf"
   },
@@ -283,7 +283,7 @@
     "pay_full": "https://buy.stripe.com/fZu3cu9v6c2u2wRejX4801y",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso Istruttore Base NRC è progettato per fornire competenze didattiche...",
+    "description": "Formazione per futuri formatori nel campo del primo soccorso. Trasmette le metodologie didattiche fondamentali, le dinamiche di comunicazione d'aula e i parametri di valutazione previsti dagli standard NRC.",
     "link_programma": ""
   },
   "psa-aziende-a-16-ore": {
@@ -298,7 +298,7 @@
     "pay_full": "https://buy.stripe.com/8wMaFca1f4yO2DS6pB",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso di Primo Soccorso Aziendale per aziende di fascia A è pensato per fornire le conoscenze e le abilità pratiche necessarie ad affrontare in modo efficace le emergenze sanitarie nei luoghi di lavoro, in conformità con quanto previsto dal D.lgs. 81/08 e dal DM 388/03.",
+    "description": "Corso di Primo Soccorso per aziende di Gruppo A (D.lgs. 81/08 e DM 388/03). Fornisce all'addetto le competenze per allertare i soccorsi, riconoscere un'emergenza sanitaria e attuare i primi interventi di base.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/primo-soccorso-aziendale-aziende-fascia-a",
     "link_programma": "https://www.med-training.org/s/PSA-16-e-agg.pdf"
   },
@@ -314,7 +314,7 @@
     "pay_full": "https://buy.stripe.com/5kAbLzc9M62V4F2bJ3",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso di Primo Soccorso Aziendale per aziende di fascia A è pensato per fornire le conoscenze e le abilità pratiche necessarie ad affrontare in modo efficace le emergenze sanitarie nei luoghi di lavoro, in conformità con quanto previsto dal D.lgs. 81/08 e dal DM 388/03.",
+    "description": "Aggiornamento periodico obbligatorio per gli addetti al Primo Soccorso in aziende di Gruppo A. Prevede il ripasso pratico e teorico delle procedure di intervento e la gestione delle urgenze nei luoghi di lavoro.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/primo-soccorso-aziendale-aziende-fascia-a",
     "link_programma": "https://www.med-training.org/s/PSA-16-e-agg.pdf"
   },
@@ -330,7 +330,7 @@
     "pay_full": "https://buy.stripe.com/bIY8x41uJ5CSdiw29m",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PSA Aziende B/C – 12 ore è progettato para fornire competenze essenziali...",
+    "description": "Corso di Primo Soccorso per aziende di Gruppo B e C (D.lgs. 81/08 e DM 388/03). Insegna al personale designato come assistere un infortunato e gestire malori in attesa dell'arrivo del Servizio Sanitario di Urgenza.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/primo-soccorso-aziendale-aziende-fascia-b",
     "link_programma": "https://www.med-training.org/s/PSA-12-e-agg-82gw.pdf"
   },
@@ -346,7 +346,7 @@
     "pay_full": "https://buy.stripe.com/7sI00yehv5CSdiwg0e",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso PSA Aziende B/C – Aggiornamento 4 ore es diseñado para actualizar...",
+    "description": "Aggiornamento triennale obbligatorio per gli addetti al Primo Soccorso in aziende di Gruppo B e C. Focalizzato sul mantenimento delle capacità pratiche di intervento rapido in caso di infortunio aziendale.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/primo-soccorso-aziendale-aziende-fascia-b",
     "link_programma": "https://www.med-training.org/s/PSA-12-e-agg-82gw.pdf"
   },
@@ -362,7 +362,7 @@
     "pay_full": "https://buy.stripe.com/fZu8wOazafeG4EZ6Rv4801z",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
-    "description": "Il nostro corso di Assistenza al Parto Extra-ospedaliero è progettato...",
+    "description": "Fornisce ai soccorritori le competenze tecniche per gestire un parto imminente al di fuori dell'ospedale. Include le procedure di primo supporto alla madre, l'assistenza al neonato e la gestione delle complicanze.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/scena-del-crimine",
     "link_programma": ""
   }
