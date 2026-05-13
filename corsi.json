@@ -289,7 +289,7 @@
   "psa-aziende-a-16-ore": {
     "label": "PSA Aziende A – 16 ore",
     "aliases": ["PSA DM 388/03 - Aziende A 16"],
-    "titulo": "PSA DM 388/03 - Aziende A 16 Ore",
+    "titulo": "PSA DM 388/03 - Aziende A - 16 Ore",
     "hours": 16,
     "price_base": 200.0,
     "vat": 44.0,
@@ -321,7 +321,7 @@
   "psa-aziende-b-c-12-ore": {
     "label": "PSA Aziende B/C – 12 ore",
     "aliases": ["PSA DM 388/03 - Aziende B/C 12"],
-    "titulo": "PSA DM 388/03 - Aziende B/C 12 Ore",
+    "titulo": "PSA DM 388/03 - Aziende B/C - 12 Ore",
     "hours": 12,
     "price_base": 180.0,
     "vat": 39.6,
