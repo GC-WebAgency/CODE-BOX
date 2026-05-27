@@ -369,7 +369,7 @@
   "interpretazione-e-lettura-ecg-base-eme": {
     "label": "Interpretazione e Lettura dell' ECG di base in Eme",
     "aliases": ["Interpretazione e Lettura dell' ECG di base in Eme", "ECG"],
-    "titulo": "Interpretazione e Lettura dell' ECG di base in Eme",
+    "titulo": "Interpretazione e Lettura dell' ECG",
     "hours": 8,
     "price_base": 100.0,
     "vat": 22.0,
