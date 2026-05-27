@@ -365,5 +365,22 @@
     "description": "Fornisce ai soccorritori le competenze tecniche per gestire un parto imminente al di fuori dell'ospedale. Include le procedure di primo supporto alla madre, l'assistenza al neonato e la gestione delle complicanze.",
     "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/scena-del-crimine",
     "link_programma": ""
+  },
+  "interpretazione-e-lettura-ecg-base-eme": {
+    "label": "Interpretazione e Lettura dell' ECG di base in Eme",
+    "aliases": ["Interpretazione e Lettura dell' ECG di base in Eme", "ECG"],
+    "titulo": "Interpretazione e Lettura dell' ECG di base in Eme",
+    "hours": 8,
+    "price_base": 100.0,
+    "vat": 22.0,
+    "total": 122.0,
+    "note": "A persona",
+    "pay_full": "https://www.med-training.org/iscrizione?MP=M&IDcorso=457&TIPOcorso=Interpretazione%20e%20Lettura%20dell'%20ECG%20di%20base%20in%20Eme&DATAINcorso=2026-10-22&DATAFIcorso=2026-10-22&re=MOL",
+    "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
+    "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
+    "description": "Fornisce le competenze teorico-pratiche per l'interpretazione e la lettura dell'ECG di base, focalizzandosi sul riconoscimento precoce delle anomalie in contesti di emergenza.",
+    "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/interpretazione-e-lettura-ecg",
+    "link_programma": "https://www.med-training.org/s/lettura-ECG-in-emergenza.pdf"
   }
 }
+
