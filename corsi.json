@@ -56,7 +56,7 @@
     "vat": 15.4,
     "total": 85.4,
     "note": "A persona",
-    "pay_full": "",
+    "pay_full": "https://buy.stripe.com/bJe7sKcHifeG9Zj2Bf4801u",
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
     "description": "Corso di retraining specifico per i professionisti sanitari. Finalizzato al mantenimento e all'aggiornamento pratico delle competenze nella rianimazione cardiopolmonare di base e nell'uso del DAE.",
