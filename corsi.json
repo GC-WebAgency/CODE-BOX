@@ -108,7 +108,7 @@
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
     "description": "Percorso formativo per diventare istruttori ALS. Fornisce le metodologie didattiche e le tecniche di valutazione pratiche necessarie per insegnare la gestione avanzata delle emergenze cardiovascolari.",
-    "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/advanced-life-support",
+    "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/visualizza-corsi-istruttori",
     "link_programma": "https://www.med-training.org/s/ALS-r2bt.pdf"
   },
   "ils-esecutore": {
@@ -172,7 +172,7 @@
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
     "description": "Percorso formativo per aspiranti istruttori PALS. Trasferisce le competenze didattiche e relazionali necessarie per formare efficacemente il personale medico nella gestione avanzata dell'emergenza pediatrica.",
-    "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/pediatric-advanced-life-support",
+    "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/visualizza-corsi-istruttori",
     "link_programma": "https://www.med-training.org/s/PALS-ypzd.pdf"
   },
   "stop-the-bleed": {
@@ -284,6 +284,7 @@
     "pay_acconto": "https://buy.stripe.com/00w6oG8r21nQefzejX4801x",
     "pay_rate": "https://buy.stripe.com/5kQ7sLeNw5eq1ct7BJeZ20N",
     "description": "Formazione per futuri formatori nel campo del primo soccorso. Trasmette le metodologie didattiche fondamentali, le dinamiche di comunicazione d'aula e i parametri di valutazione previsti dagli standard NRC.",
+    "link_info": "https://www.med-training.org/scopri-il-nostro-calendario-corsi/visualizza-corsi-istruttori"
     "link_programma": ""
   },
   "psa-aziende-a-16-ore": {
