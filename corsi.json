@@ -277,7 +277,7 @@
     "titulo": "ISTRUTTORE BASE NRC",
     "hours": 20,
     "price_base": 500.0,
-    "vat": 88.0,
+    "vat": 0,
     "total": 500.0,
     "note": "A persona",
     "pay_full": "https://buy.stripe.com/fZu3cu9v6c2u2wRejX4801y",
